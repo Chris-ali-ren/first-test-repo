@@ -7,6 +7,8 @@
 #define INITAL_REMINDER      0xfffe
 #define MSG_LEN              2
 
+
+
 short calCRC(short data)
 {
     short remainder;
